@@ -20,7 +20,7 @@ These metrics include:
 
 **LCP (Largest Contentful Paint)** measures loading performance. Ideally, LCP should occur no more than 2.5 seconds after the page starts loading.
 
-The amount of time it takes for a site to respond, **Time To First Byte** (TTFB), along with the time it takes a page to render meaningful content above the fold, **Time To First Paint** (TTFP), are both factors for Google's page rankings. All other qualifiers being equal, search rankings can drop by 5 or 10 if TTFB goes up a few hundred milliseconds.
+The amount of time it takes for a site to respond, **Time To First Byte (TTFB)**, along with the time it takes a page to render meaningful content above the fold, **Time To First Paint (TTFP)**, are both factors for Google's page rankings. All other qualifiers being equal, search rankings can drop by 5 or 10 places if TTFB goes up a few hundred milliseconds.
 
 ## Interactivity Delay
 **FID (First Input Delay)** measures how long it takes before interaction with the page is possible. A FID of less than 100 milliseconds provides optimal user experience.
