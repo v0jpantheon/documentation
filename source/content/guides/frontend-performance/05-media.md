@@ -2,6 +2,7 @@
 title: Frontend Performance 
 subtitle: Images and Media
 description: Optimizing media and images for frontend performance.
+showtoc: true
 anchorid: media
 categories: [performance]
 tags: [measure, traffic]

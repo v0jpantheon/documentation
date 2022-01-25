@@ -2,6 +2,7 @@
 title: Frontend Performance 
 subtitle: Performance Metrics
 description: Overview of how and what to measure when optimizing your site for performance.
+showtoc: true
 anchorid: metrics
 categories: [performance]
 tags: [measure, traffic]
