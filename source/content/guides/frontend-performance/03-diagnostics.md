@@ -65,5 +65,5 @@ The `webprofiler` module is provided by [Devel](https://www.drupal.org/project/d
 
 </TabList>
 
-For debugging deep and complex server-side performance problems you might need to run your site locally with profiler like [Blackfire](https://blackfire.io/).
+For debugging deep and complex server-side performance problems you might need to run your site locally with a profiler like [Blackfire](https://blackfire.io/).
 
