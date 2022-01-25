@@ -2,6 +2,7 @@
 title: Frontend Performance 
 subtitle: Redirects
 description: Avoiding unnecesary redirects to optimize site performance.
+showtoc: true
 anchorid: redirects
 categories: [performance]
 tags: [measure, traffic]

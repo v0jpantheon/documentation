@@ -2,6 +2,7 @@
 title: Frontend Performance 
 subtitle: Code and CSS
 description: Optimizing code and CSS.
+showtoc: true
 anchorid: code
 categories: [performance]
 tags: [measure, traffic]

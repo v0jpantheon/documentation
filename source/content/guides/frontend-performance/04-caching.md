@@ -2,6 +2,7 @@
 title: Frontend Performance 
 subtitle: Caching
 description: Caching strategies for improved performance.
+showtoc: true
 anchorid: caching
 layout: guide
 categories: [performance]
